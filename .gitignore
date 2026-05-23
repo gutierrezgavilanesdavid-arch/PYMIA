@@ -1,0 +1,9 @@
+# Archivos temporales de Word/Excel
+~$*
+
+# Archivos de sistema Windows
+Thumbs.db
+desktop.ini
+
+# Archivos temporales
+*.tmp
